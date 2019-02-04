@@ -4,9 +4,7 @@ Created an Online Order Application, Customers can customized their burger ingre
 logged in
 
 
-* Create a single page web application by React. Customers can choose burger ingredients and place order after they
-logged in
+* Created a single page application(SAP) with React.js and implemented responsve layout with CSS3 
+*	Developed Redux to manage authentication and users data also used React-Router for dynamic routing
+*	Utilized Axios.js framework for asynchronous data transfer between browser and server
 
-* Developed Redux to manage authentication and users information also used React-Router for dynamic routing
-
-* Implemented Axios.js to send and fetch data from Google FireBase
